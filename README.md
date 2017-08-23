@@ -5,5 +5,5 @@ Run using expo
 git clone https://github.com/DesignmanIO/react-navigation-last-tab-issue.git
 cd react-navigation-last-tab-issue
 npm i
-exp ios
+exp start --ios
 ```
