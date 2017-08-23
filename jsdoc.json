@@ -1,0 +1,21 @@
+{
+  "plugins": [
+    "node_modules/jsdoc-strip-async-await"
+  ],
+  "source": {
+    "include": [
+      "./"
+    ],
+    "exclude": [
+      "node_modules"
+    ]
+  },
+  "opts": {
+    "destination": "../docs/",
+    "recurse": true
+  },
+  "templates": {
+    "cleverLinks": false,
+    "monospaceLinks": false
+  }
+}

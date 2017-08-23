@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "react-navigation-tab-issue",
+    "description": "An empty new project",
+    "slug": "react-navigation-tab-issue",
+    "privacy": "public",
+    "sdkVersion": "19.0.0",
+    "version": "1.3.4",
+    "orientation": "portrait",
+    "primaryColor": "#ffffff",
+    "icon": "./assets/icons/app.png",
+    "loading": {
+      "icon": "./assets/icons/loading.png",
+      "hideExponentText": false,
+      "backgroundColor": "#131313"
+    },
+    "packagerOpts": {
+      "assetExts": ["ttf", "mp4"]
+    }
+  }
+}
